@@ -1,5 +1,4 @@
 dependencies:
   pre:
     - echo "I'm an artifact" > ${CIRCLE_ARTIFACTS}/artifact.log
-    - "false"
 
